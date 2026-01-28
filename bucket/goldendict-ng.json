@@ -9,6 +9,7 @@
         "Move-Item \"$dir\\GoldenDict*\\*\" \"$dir\"",
         "Remove-Item \"$dir\\GoldenDict-ng-*\""
     ],
+    "bin": "goldendict.exe",
     "shortcuts": [
         [
             "goldendict.exe",
